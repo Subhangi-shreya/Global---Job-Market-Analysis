@@ -4,8 +4,6 @@
 
 This project analyzes the global data job market using real-world job posting data to uncover hiring trends, salary insights, skill demand, and remote work patterns.
 
-The project follows an end-to-end data analytics workflow:
-Raw data → Python cleaning → SQL analysis → Power BI dashboard.
 
 ---
 
